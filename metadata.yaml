@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7016
     wikipedia: http://en.wikipedia.org/wiki/Henry_Nevil_Payne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16916#The-Fatal-Jealousie--1673-
 gutenberg_issued: '2005-10-21'
 gutenberg_type: Text
 identifiers:
