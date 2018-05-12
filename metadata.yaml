@@ -1,0 +1,39 @@
+_repo: The-Fatal-Jealousie--1673-_16916
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Thorp, Willard
+    alias: Thorp, William Willard
+    birthdate: 1899
+    deathdate: 1990
+    gutenberg_agent_id: '7017'
+    url: http://www.gutenberg.org/2009/agents/7017
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Payne, Henry Neville, active 1672-1710
+    aliases:
+    - Navilepaine, Hendry
+    - Payn, Nevil
+    - Navilpayne, Hendry
+    - Payne, Henry Nevil
+    - Payne, Nevil
+    gutenberg_agent_id: '7016'
+    url: http://www.gutenberg.org/2009/agents/7016
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Nevil_Payne
+description: ''
+gutenberg_issued: '2005-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+title: The Fatal Jealousie (1673)
+url: http://www.gutenberg.org/ebooks/16916
